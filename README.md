@@ -8,7 +8,7 @@ How to create it <br>
 <i>npx create-react-app client </i>
 
 Following packages where installed for this project: <br>
-<i>npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment</i>
+<i>npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment uuid</i>
 
 ### Information
 - The client application is created in react
