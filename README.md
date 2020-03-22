@@ -4,7 +4,10 @@ This application is a "Social media platform" for developers where you can make 
 
 ## React app - client
 
-How to create it <br>
+How to create it: <br>
+<i>npm install -g create-react-app</i>
+<i>create-react-app project_name</i> <br>
+or <br>
 <i>npx create-react-app client </i>
 
 Following packages where installed for this project: <br>
